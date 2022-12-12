@@ -119,5 +119,3 @@ alias download_path='echo "/mnt/chromeos/MyFiles/Downloads"'
 # Git aliases
 alias gad='git add .'
 alias gpom='git push origin main'
-alias nagrat='sh ~/Git\ Credentials/nagrat.sh'
-alias inf3xt='sh ~/Git\ Credentials/inf3xt.sh'
